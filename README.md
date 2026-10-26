@@ -1,6 +1,6 @@
 # HONUR.SOLO Mic Board
 
-A custom 2-layer PCB built around the ESP32-S3-MINI-1 module, with an INMP441
+A custom 2-layer PCB built around the ESP32-S3-MINI-N8 module, with an INMP441
 I2S MEMS microphone, powered over USB-B. Designed in KiCad.
 
 ## Features
