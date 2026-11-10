@@ -13,9 +13,6 @@ I2S MEMS microphone, powered over USB-B. Designed in KiCad.
 
 ## Repository Contents
 - `*.kicad_sch`, `*.kicad_pcb`: schematic and PCB layout
-- `gerber/`: fabrication files (JLCPCB)
-- `bom/`: BOM and CPL files for PCBA
-- `docs/`: datasheet links and render images
 
 ## Design Notes
 - GND copper pour on B.Cu; the ESP32 thermal pad is stitched to it with vias
